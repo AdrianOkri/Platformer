@@ -2,6 +2,6 @@
 Videojuego de plataformas en Unity, curso de Platzi
 
 
-![](Captura1.PNG)
+![](Captura.PNG)
 
-![](Captura2.PNG)
+![](Captura2.png)
